@@ -1,0 +1,101 @@
+{
+  "general": [
+    {
+      "question": "what is your working hours",
+      "answer": "Our working hours are Monday to Friday, 9 AM to 6 PM."
+    },
+    {
+      "question": "how can i contact support",
+      "answer": "You can contact support via email at support@example.com or call 1-800-123-4567."
+    },
+    {
+      "question": "where are you located",
+      "answer": "We are located at 123 Main Street, City, Country."
+    },
+    {
+      "question": "how do i reset my password",
+      "answer": "Use the 'Forgot Password' link on the login page to reset your password."
+    },
+    {
+      "question": "what languages do you support",
+      "answer": "Currently, we support English and Spanish. More languages coming soon."
+    },
+    {
+      "question": "can i speak to a human agent",
+      "answer": "Yes, type 'human agent' or 'talk to representative' to be connected to a support agent."
+    },
+    {
+      "question": "how do i give feedback",
+      "answer": "You can give feedback via our website's feedback form or email us at feedback@example.com."
+    }
+  ],
+  
+  "customer_support": [
+    {
+      "question": "how can i escalate a complaint",
+      "answer": "You can escalate a complaint by contacting our customer support manager via email or calling our toll-free escalation number."
+    },
+    {
+      "question": "what are your support working hours",
+      "answer": "Our customer support is available from Monday to Friday, 9 AM to 6 PM, excluding public holidays."
+    },
+    {
+      "question": "how to reset my account password securely",
+      "answer": "You can reset your password via the 'Forgot Password' option on the login page. Follow the verification steps sent to your registered email or phone."
+    },
+    {
+      "question": "how to update my contact details",
+      "answer": "To update your contact details, log in to your account and go to profile settings, or contact support with valid ID proof."
+    },
+    {
+      "question": "what security measures protect my data",
+      "answer": "We use encryption, two-factor authentication, and secure servers to protect your data."
+    }
+  ],
+  
+  "loan": [
+    {
+      "question": "can i prepay my loan without penalty",
+      "answer": "Yes, most loans allow prepayment, but some may have a small prepayment penalty. Please check your loan agreement."
+    },
+    {
+      "question": "how do i check my credit score",
+      "answer": "You can check your credit score online through authorized credit bureaus by providing your PAN and personal details."
+    },
+    {
+      "question": "what is the difference between secured and unsecured loans",
+      "answer": "Secured loans require collateral (like property), while unsecured loans do not but usually have higher interest rates."
+    },
+    {
+      "question": "what happens if i miss an emi payment",
+      "answer": "Missing an EMI may lead to late fees and impact your credit score. Contact your lender immediately to discuss options."
+    },
+    {
+      "question": "how long does loan approval usually take",
+      "answer": "Loan approval time varies but typically takes 1-7 business days depending on document verification and loan type."
+    }
+  ],
+  
+  "education": [
+    {
+      "question": "how can i apply for a scholarship",
+      "answer": "You can apply for scholarships through the official portal of your institution or government scholarship websites."
+    },
+    {
+      "question": "what are the types of scholarships available",
+      "answer": "Common scholarships include merit-based, need-based, sports scholarships, and scholarships for minorities or special categories."
+    },
+    {
+      "question": "how to prepare for competitive exams",
+      "answer": "Create a study plan, use standard guides, practice past papers, and consider coaching or online courses."
+    },
+    {
+      "question": "what documents are needed for college admission",
+      "answer": "Typically, you'll need academic transcripts, ID proof, recommendation letters, and application forms."
+    },
+    {
+      "question": "how to choose the right course for me",
+      "answer": "Consider your interests, career goals, job market trends, and seek advice from counselors or mentors."
+    }
+  ]
+}
