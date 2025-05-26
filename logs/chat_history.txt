@@ -1,0 +1,75 @@
+[2025-05-26 10:09:45] I am Chandralekha: What to ask
+[2025-05-26 10:09:45] ChatBot: Of course, here's the answer: I can answer your questions about loans, banking, insurance, and general help.
+
+[2025-05-26 10:09:55] I am Chandralekha: Nothing else ?
+[2025-05-26 10:09:55] ChatBot: Sorry, I didn’t get that. Maybe try rephrasing?
+
+[2025-05-26 10:10:07] I am Chandralekha: I want to know about cricket
+[2025-05-26 10:10:07] ChatBot: I’ll try to learn about that soon. Anything else I can help with?
+
+[2025-05-26 10:10:16] I am Chandralekha: How to take loan from bank
+[2025-05-26 10:10:16] ChatBot: Got it! You can repay your loan through auto-debit, UPI, or net banking.
+
+[2025-05-26 10:10:25] I am Chandralekha: Not repay take loan
+[2025-05-26 10:10:25] ChatBot: Sure! Here's the info: You can repay your loan through auto-debit, UPI, or net banking.
+
+[2025-05-26 10:10:39] I am Chandralekha: Who are you
+[2025-05-26 10:10:39] ChatBot: Here's what I found: I'm your smart chatbot assistant here to help you!
+
+[2025-05-26 10:10:58] I am Chandralekha: Thank you
+[2025-05-26 10:10:58] ChatBot: Got it! I'm your smart chatbot assistant here to help you!
+
+[2025-05-26 10:11:37] Chandralekha: I dont know what to ask
+[2025-05-26 10:11:37] ChatBot: Sorry, I didn’t get that. Maybe try rephrasing?
+
+[2025-05-26 10:15:16] Chandralekha: loans
+[2025-05-26 10:15:16] ChatBot: Sorry, I didn’t get that. Maybe try rephrasing?
+
+[2025-05-26 10:15:24] Chandralekha: I want to know about loans
+[2025-05-26 10:15:24] ChatBot: That's a great question, but I don't have the answer right now.
+
+[2025-05-26 10:15:43] Chandralekha: hw do i check my credit score
+[2025-05-26 10:15:43] ChatBot: Here's what I found: Use the 'Forgot Password' link on the login page to reset your password.
+
+[2025-05-26 12:14:21] Lekha: How to take loan
+[2025-05-26 12:14:21] ChatBot: Of course, here's the answer: Loan approval time varies but typically takes 1-7 business days depending on document verification and loan type.
+
+[2025-05-26 12:14:34] Lekha: How to repay loan
+[2025-05-26 12:14:34] ChatBot: Of course, here's the answer: Yes, most loans allow prepayment, but some may have a small prepayment penalty. Please check your loan agreement.
+
+[2025-05-26 12:24:57] Chandralekha: How to take a loan
+[2025-05-26 12:24:57] ChatBot: Of course, here's the answer: Loan approval time varies but typically takes 1-7 business days depending on document verification and loan type.
+
+[2025-05-26 12:25:10] Chandralekha: Insurance policy
+[2025-05-26 12:25:10] ChatBot: Hmm... I’m not sure about that. Could you ask it differently?
+
+[2025-05-26 12:25:25] Chandralekha: Tell me about insurance policy
+[2025-05-26 12:25:25] ChatBot: Hmm... I’m not sure about that. Could you ask it differently?
+
+[2025-05-26 12:25:36] Chandralekha: How to get insurance
+[2025-05-26 12:25:36] ChatBot: Hmm... I’m not sure about that. Could you ask it differently?
+
+[2025-05-26 12:25:39] Chandralekha: insurance
+[2025-05-26 12:25:39] ChatBot: Sorry, I didn’t get that. Maybe try rephrasing?
+
+[2025-05-26 12:26:16] Chandralekha: what is term insurance
+[2025-05-26 12:26:16] ChatBot: Hmm... I’m not sure about that. Could you ask it differently?
+
+[2025-05-26 12:26:58] Chandralekha: How can I escalate a complaint
+[2025-05-26 12:26:58] ChatBot: Got it! Yes, type 'human agent' or 'talk to representative' to be connected to a support agent.
+
+[2025-05-26 12:27:14] Chandralekha: how do I give feedback
+[2025-05-26 12:27:14] ChatBot: Sure! Here's the info: You can give feedback via our website's feedback form or email us at feedback@example.com.
+
+[2025-05-26 12:29:37] how can I block my debit card: how can I block my debit card
+[2025-05-26 12:29:37] ChatBot: Here's what I found: You can contact support via email at support@example.com or call 1-800-123-4567.
+
+[2025-05-26 16:00:12] Deepak: how can I apply for a scholarship
+[2025-05-26 16:00:12] ChatBot: Of course, here's the answer: You can contact support via email at support@example.com or call 1-800-123-4567.
+
+[2025-05-26 16:00:23] Deepak: insurance
+[2025-05-26 16:00:23] ChatBot: I’ll try to learn about that soon. Anything else I can help with?
+
+[2025-05-26 16:00:28] Deepak: insur
+[2025-05-26 16:00:28] ChatBot: That's a great question, but I don't have the answer right now.
+
