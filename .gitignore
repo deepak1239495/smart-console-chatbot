@@ -27,7 +27,7 @@ var/
 # Logs and databases
 *.log
 *.sqlite3
-logs/
+# logs/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
